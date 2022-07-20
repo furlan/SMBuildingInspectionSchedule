@@ -164,3 +164,4 @@ Set(
 
 - Map with all the inspections sites for the selected inspector.
 - Calendar showing the distribution of the inspections across the days.
+- Dashboard showing the distribution of inspections among the inspectors.
